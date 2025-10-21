@@ -10,5 +10,4 @@ async function ambilDataUser() {
     console.error("Terjadi error:", error);
   }
 }
-
 export default ambilDataUser;

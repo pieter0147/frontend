@@ -5,5 +5,4 @@ function helloWorld() {
     }, 2000);
   });
 }
-
 export default helloWorld;
